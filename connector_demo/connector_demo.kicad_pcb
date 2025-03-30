@@ -1417,7 +1417,7 @@
 	(footprint "logo:ctslogo1x2cm"
 		(layer "F.Cu")
 		(uuid "e4b72686-c109-4508-b862-85d106894fd9")
-		(at 131 87.5)
+		(at 130.5 89.5)
 		(property "Reference" "G***"
 			(at -2.5 -2 0)
 			(layer "F.SilkS")
@@ -2531,8 +2531,8 @@
 		(embedded_fonts no)
 	)
 	(gr_line
-		(start 151.5 72.5)
-		(end 151.5 70.5)
+		(start 162 72.5)
+		(end 162 70.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -2572,7 +2572,7 @@
 		(uuid "cc133c1f-1cd8-4a17-861f-5dd471472d7d")
 	)
 	(gr_text "Pin 1"
-		(at 148 70 0)
+		(at 161 70 0)
 		(layer "F.SilkS")
 		(uuid "58c35d18-0a39-4114-bb71-eb74a7828f93")
 		(effects
@@ -2607,8 +2607,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Connector reference board\nRev. 1 \n2025-03-25"
-		(at 145.5 89.5 0)
+	(gr_text "Connector reference board\nRev. 1 \n2025-03-30"
+		(at 145.5 92.5 0)
 		(layer "F.SilkS")
 		(uuid "fd1d865f-ba62-42e5-97ca-80edec3febb9")
 		(effects
