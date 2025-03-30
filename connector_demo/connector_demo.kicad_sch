@@ -3,7 +3,13 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "499fefd8-f4f0-4f92-8764-0da9806808f6")
-	(paper "A4")
+	(paper "A")
+	(title_block
+		(title "Connector PCB")
+		(date "2025-03-28")
+		(rev "1")
+		(company "CalgaryToSpace")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x08"
 			(pin_names

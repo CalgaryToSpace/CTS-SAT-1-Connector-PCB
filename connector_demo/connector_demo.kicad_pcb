@@ -122,7 +122,7 @@
 		)
 		(property "Value" "PicoLock 8-wide"
 			(at 0 4.52 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "9ab5a329-68d5-46c2-99c5-aa1c6a0d36ae")
 			(effects
 				(font
@@ -537,9 +537,9 @@
 				)
 			)
 		)
-		(property "Value" "MicroLock"
+		(property "Value" "MicroLock 8-wide"
 			(at 0 4.52 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "c740373a-6ae8-4317-9201-5d0fabe63e77")
 			(effects
 				(font
@@ -955,8 +955,8 @@
 			)
 		)
 		(property "Value" "PicoBlade 8-wide"
-			(at 0 3.8 0)
-			(layer "F.Fab")
+			(at 0 4.1 0)
+			(layer "F.SilkS")
 			(uuid "5df9b83b-e87e-4bbd-8e9e-2be08da999e5")
 			(effects
 				(font
@@ -2561,8 +2561,8 @@
 		(uuid "9c52d7f4-bb72-4c45-9195-300c07c682d2")
 	)
 	(gr_rect
-		(start 89.5 63)
-		(end 170.5 92)
+		(start 92.5 58.5)
+		(end 173.5 105)
 		(stroke
 			(width 0.05)
 			(type default)
